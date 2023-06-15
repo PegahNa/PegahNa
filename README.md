@@ -1,6 +1,26 @@
 # 💫 About Me:
-🏆 Won scholarships to Makers, one of the most selective coding bootcamps in the world.<br>🏆 Also received a scholarship from Code First Girls.<br>📐 Have 6 years of experience as an interior architect.<br>🎉 Passionate about using technology to solve real-world problems.<br>🔓 Excellent problem-solving and analytical skills.<br>👩🏻‍💻 Strong communication and teamwork skills.<br>🤞🏻Dedicated to continuous learning and improvement.
 
+🎓 Scholarship Recipient | 🚀 Software Engineer | 🎨 Interior Architect
+                                  
+I am a passionate Software Engineer with a background in Interior Architecture. <br>
+I embarked on an exciting career transition to pursue my love for coding, and <br>
+I haven't looked back since!<br>         
+
+# Education & Scholarships<br>
+🏅 Gained two prestigious scholarships:
+
+Makers Academy: A highly selective dev bootcamp known for its rigorous curriculum and industry-focused training.<br><br>
+Code First Girls: An organization dedicated to promoting gender diversity in tech and empowering women in the field.<br><br>
+
+# Professional Experience<br>
+💼 Prior Business Owner: As an Interior Architect, I successfully ran my own business for 6 years. This experience honed my skills in project management, client communication, and creative problem-solving.<br><br>
+
+# Skills & Interests<br>
+💻 Software Engineer: Proficient in Ruby, JavaScript, and Python. Passionate about crafting elegant solutions and building user-centric product.<br>
+
+🎨 Design Sensibility: Leveraging my background in Interior Architecture, I bring a unique design perspective to my development work, creating visually appealing and intuitive user interfaces.
+
+🌟 Continuous Learner: Committed to staying updated with the latest industry trends and technologies. Always seeking new opportunities to expand my skill set and grow as a developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pegah-nazari-0a3937100/) 
