@@ -22,7 +22,7 @@ Code First Girls: An organization dedicated to promoting gender diversity in tec
 
 🌟 Continuous Learner: Committed to staying updated with the latest industry trends and technologies. Always seeking new opportunities to expand my skill set and grow as a developer.<br><br>
 
-# 🌐 Socials:
+# 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pegah-nazari-0a3937100/) <br><br>
 
 
