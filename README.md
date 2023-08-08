@@ -1,5 +1,5 @@
 # 💫 About Me:
-###  [CV](https://github.com/PegahNa/CV)<br><br>
+###  [CV](https://github.com/PegahNa/CV)<br>
 🎓 Scholarship Recipient | 🚀 Software Engineer | 🎨 Interior Architect
                                   
 I am a passionate Software Engineer with a background in Interior Architecture. <br>
