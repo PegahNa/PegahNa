@@ -3,8 +3,7 @@
 🎓 Scholarship Recipient | 🚀 Software Engineer | 🎨 Interior Architect
                                   
 I am a passionate Software Engineer with a background in Interior Architecture. <br>
-I embarked on an exciting career transition to pursue my love for coding, and <br>
-I haven't looked back since!<br>         
+I embarked on an exciting career transition to pursue my love for coding!<br>         
 
 # Education & Scholarships:<br>
 🏅 Gained two prestigious scholarships:
